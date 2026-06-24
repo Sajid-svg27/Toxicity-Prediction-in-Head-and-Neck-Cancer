@@ -196,6 +196,6 @@ Dose-volume metrics appear to provide the strongest predictive signal.
 
 
 
-**Muhammad Sajid Saleem**
+**Sajid Saleem**
 
 Medical Physics | Radiomics | Machine Learning | Radiation Toxicity Prediction
